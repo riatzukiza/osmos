@@ -1,0 +1,13 @@
+{
+  "repo": "open-hax/eta-mu",
+  "revision": "15093b7f5d9e1500f0ef02bcc0968850955fb014",
+  "scope": "Chosen public Receipt River API preparation check for NEW Osmos receipts only; no local Osmos gate or authority over foreign historical rows",
+  "namespaces": {
+    "eta_mu/receipt_river/api.cljs": "c027fff0ef9dcbb2b3fa7b2ab77bf9afd0b240a6e8304661fcb2e4be332a0812",
+    "eta_mu/receipt_river/extern/fs.cljs": "1d6cc5136f40231c6926ef9f16602cd27361df15f80b0f60af78db196bcdf2cb",
+    "eta_mu/receipt_river/extern/bus.cljs": "068f93ced2662e2493e5b6f42ce47b566b02b21eab225aab994b71de2e2a99fe",
+    "eta_mu/receipt_river/domain/event.cljs": "bd284edccb1e355b19a6b356593a7daa2cb1f52055024f8efc4aca9d90762253",
+    "eta_mu/receipt_river/law/receipt.cljs": "a40dd843cf298926dfbe229d5544470dbd51682fd538e841a0fad62d29bed320",
+    "eta_mu/receipt_river/shape/edn.cljs": "0e06bef509eda4cf3aa63e53577d14b74e780563608aa52d6161ae296ceb3914"
+  }
+}

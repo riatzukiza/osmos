@@ -1,0 +1,20 @@
+{
+  "base": "0c33018e27f861536822086afcdab666a60add44",
+  "protected_base_files": 53,
+  "all_base_bytes_unchanged": true,
+  "capture_wrappers_verified": 16,
+  "native_task_read_exit": 0,
+  "native_status": "incoming",
+  "native_ready_admission": false,
+  "chosen_public_receipt_api_revision": "15093b7f5d9e1500f0ef02bcc0968850955fb014",
+  "chosen_api_build_validate_rows": 2,
+  "chosen_api_full_file_rows": 2,
+  "chosen_api_errors": 0,
+  "osmos_inherited_receipt_gate": false,
+  "implementation": false,
+  "runtime_builds_and_services": "not run/planning only",
+  "original_root_umbrella_status": "blocked",
+  "original_root_umbrella_points": 8,
+  "publication": "not yet authorized after root peer",
+  "native_manual_requests": 0
+}

@@ -1,0 +1,66 @@
+{
+  "osmos-loader-current-probe.clj.b64.json": {
+    "decoded_size": 1681,
+    "decoded_sha256": "97c1fe657a34843f8fbef52d301050e37ee5d90481201b7c9082d6ddca8e7622"
+  },
+  "osmos-loader-current-probe.stdout.b64.json": {
+    "decoded_size": 717,
+    "decoded_sha256": "e16b3c18867322a1eb6a8fe2d1a1657fdd83fc17192ee06f4a576f805d7cdcb9"
+  },
+  "osmos-loader-current-probe.stderr.b64.json": {
+    "decoded_size": 0,
+    "decoded_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "osmos-planning-native.stdout.b64.json": {
+    "decoded_size": 6874,
+    "decoded_sha256": "6e4c28062500630d9c790c157ac9f227a475cac565345e0877a31b6c7ec1f47a"
+  },
+  "osmos-planning-native.stderr.b64.json": {
+    "decoded_size": 0,
+    "decoded_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "osmos-native-read-board.stdout.b64.json": {
+    "decoded_size": 974,
+    "decoded_sha256": "8555c4cba43b1e2fd7d717d18ae38d92d59f7ba4717949b232b53665bc16c9f8"
+  },
+  "osmos-native-read-board.stderr.b64.json": {
+    "decoded_size": 304,
+    "decoded_sha256": "8dbbc0fa9083a0ad13e0c96b353c90509c46f510a2441283ba1706895038e16b"
+  },
+  "rheos-e1-08-osmos-ingestion-service.stdout.b64.json": {
+    "decoded_size": 2598,
+    "decoded_sha256": "38b5c51246b50b245c04139605ad034f0ea5ed8c922a8f21d5b2bef122c2be91"
+  },
+  "rheos-e1-08-osmos-ingestion-service.stderr.b64.json": {
+    "decoded_size": 0,
+    "decoded_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "osmos-protected-base-files.json.b64.json": {
+    "decoded_size": 6202,
+    "decoded_sha256": "0f52d003224235c1c0a759229f695dc5f65cb59b6c2155c6f32e7d63b40a1289"
+  },
+  "axxium-native.stdout.b64.json": {
+    "decoded_size": 2158,
+    "decoded_sha256": "db275240aa36cfef8cfa53cf4a4f399200171c96c0e0d762d9b9ae01216d3df2"
+  },
+  "axxium-native.stderr.b64.json": {
+    "decoded_size": 0,
+    "decoded_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "selected-api-build-validate.stdout.b64.json": {
+    "decoded_size": 157,
+    "decoded_sha256": "a22a414953c4f4f2b087be1aa744fc4d47c43dec50c49005b47a264e7c5e273e"
+  },
+  "selected-api-build-validate.stderr.b64.json": {
+    "decoded_size": 0,
+    "decoded_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "selected-api-full-file.stdout.b64.json": {
+    "decoded_size": 253,
+    "decoded_sha256": "d896748ae0146fdebf7714394d7c9446470a18b7dff7f56ce179c07d7120d591"
+  },
+  "selected-api-full-file.stderr.b64.json": {
+    "decoded_size": 0,
+    "decoded_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+}

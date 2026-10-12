@@ -1,0 +1,111 @@
+{
+  "scope": "Read-only intake of direct Sol/Osmos/Axxium; Osmos plan only",
+  "repositories": [
+    {
+      "repo": "open-hax/sol",
+      "default": "main",
+      "fork": false,
+      "network": "open-hax/sol",
+      "open_prs": 0,
+      "open_issues": 0,
+      "issues_disabled": false,
+      "heads": []
+    },
+    {
+      "repo": "riatzukiza/sol",
+      "default": "main",
+      "fork": true,
+      "network": "open-hax/sol",
+      "open_prs": 0,
+      "open_issues": null,
+      "issues_disabled": true,
+      "heads": []
+    },
+    {
+      "repo": "open-hax/osmos",
+      "default": "main",
+      "fork": false,
+      "network": "open-hax/osmos",
+      "open_prs": 0,
+      "open_issues": 0,
+      "issues_disabled": false,
+      "heads": []
+    },
+    {
+      "repo": "riatzukiza/osmos",
+      "default": "main",
+      "fork": true,
+      "network": "open-hax/osmos",
+      "open_prs": 0,
+      "open_issues": null,
+      "issues_disabled": true,
+      "heads": []
+    },
+    {
+      "repo": "open-hax/axxium",
+      "default": "main",
+      "fork": false,
+      "network": "open-hax/axxium",
+      "open_prs": 2,
+      "open_issues": 18,
+      "issues_disabled": false,
+      "heads": [
+        {
+          "number": 26,
+          "sha": "18f92db5ea106b4f9dd3eb4d84b9da0fc6ee9f04"
+        },
+        {
+          "number": 13,
+          "sha": "0e0a67299b61ae8ac309385a6400ca603ac3855f"
+        }
+      ]
+    },
+    {
+      "repo": "riatzukiza/axxium",
+      "default": "main",
+      "fork": true,
+      "network": "open-hax/axxium",
+      "open_prs": 1,
+      "open_issues": null,
+      "issues_disabled": true,
+      "heads": [
+        {
+          "number": 1,
+          "sha": "539409b169302793a0b67f97d75ddd6265cf9d12"
+        }
+      ]
+    }
+  ],
+  "selected": {
+    "repo": "riatzukiza/osmos",
+    "fork_source": "open-hax/osmos",
+    "base": "0c33018e27f861536822086afcdab666a60add44",
+    "proposed_points": 3,
+    "implementation": "not admitted",
+    "upstream_card": "e1-08-osmos-ingestion-service",
+    "upstream_native_status": "blocked",
+    "upstream_points": 8
+  },
+  "native_board_limits": {
+    "sol": "read-board0tasks, exit0 with ENOENT default docs/agile/tasks",
+    "osmos": "read-board0tasks, exit0 with ENOENT default docs/agile/tasks",
+    "axxium": {
+      "total_tasks": 6,
+      "statuses": [
+        {
+          "status": "todo",
+          "count": 6
+        }
+      ],
+      "configured_path": "kanban/openhax.kanban.json; tasksDir ."
+    },
+    "osmos_new_plan": "Native read-task exit0 incoming at native default docs/agile/tasks; no planning convergence/readiness claim"
+  },
+  "ownership": {
+    "axxium_personal1": "Parent-managed exclusive repair lane; untouched",
+    "axxium_upstream13": "Existing foreign cross-host work, source handoffs14-25 concern this unmerged head; untouched",
+    "axxium_upstream26": "Retained publication predecessor; untouched"
+  },
+  "historical_mistake": "Initial Sol reads used filename slugs rather than explicitUUID; native refused exit1, corrected actualUUID reads exit0. No failure reinterpreted asstatus.",
+  "axxium_clone_limit": "Full1.59GB history clone stopped only exact owned clone; read-only depth1 main2439 snapshot supplies source/configuredboard facts, not complete ancestry claims"
+}
